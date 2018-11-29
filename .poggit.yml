@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SwiftAndreiw/SlapperRotation
+branches:
+- master
+projects:
+  SlapperRotation:
+    path: "SlapperRotation"
+...
